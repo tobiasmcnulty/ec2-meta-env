@@ -1,0 +1,27 @@
+*.py[cod]
+.DS_Store
+
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+MANIFEST
+
+# Installer logs
+pip-log.txt
+npm-debug.log
+pip-selfcheck.json
+
+# Unit test / coverage reports
+.tox
+
+# setuptools
+dist
