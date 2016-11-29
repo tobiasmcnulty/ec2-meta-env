@@ -1,6 +1,11 @@
 ec2-meta-env
 ============
 
+.. image:: https://badge.fury.io/py/ec2-meta-env.svg
+    :target: https://badge.fury.io/py/ec2-meta-env
+.. image:: https://travis-ci.org/tobiasmcnulty/ec2-meta-env.svg?branch=master
+    :target: https://travis-ci.org/tobiasmcnulty/ec2-meta-env
+
 A simple wrapper script to manifest EC2 instance metadata as environment
 variables.
 
